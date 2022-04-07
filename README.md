@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- I work as an **Software Engineer** at **Google**.  -->
-I am Graduated of the Session of 2015-2019 in Computer Science & Engineering from **Nalanda College of Engineering, Chandi)**.
+I am Graduated of the Session of 2015-2019 B.Tech in Computer Science & Engineering from **Nalanda College of Engineering, Chandi (Nalanda, Bihar)**.
 
 ![](https://komarev.com/ghpvc/?username=MD-ARFIN&color=blue)
 
