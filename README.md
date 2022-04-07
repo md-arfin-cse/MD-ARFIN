@@ -2,9 +2,7 @@
 
 <!--
 **MD-ARFIN/MD-ARFIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- I work as an **Software Engineer** at **Google**.  -->
+I am a graduate of the class of 2021 in Electrical Engineering from **Indian Institute of Technology (BHU) Varanasi**.
+
+![](https://komarev.com/ghpvc/?username=vikas-baghel&color=blue)
+
+### 📫 How to reach me
+- 🐦 Twitter: [@arfinraja](https://twitter.com/arfinraja)
+- 👥 LinkedIn [@md-arfin-cse](https://www.linkedin.com/in/md-arfin-cse/)
+<!-- - 💻 Website: []() -->
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MD-ARFIN&show_icons=true&count_private=true&theme=tokyonight" alt="MD-ARFIN" />
