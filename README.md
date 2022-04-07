@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- I work as an **Software Engineer** at **Google**.  -->
 I am Graduated of the Session of 2015-2019 in Computer Science & Engineering from **Nalanda College of Engineering, Chandi)**.
 
-![](https://komarev.com/ghpvc/?username=vikas-baghel&color=blue)
+![](https://komarev.com/ghpvc/?username=MD-ARFIN&color=blue)
 
 ### 📫 How to reach me
 - 🐦 Twitter: [@arfinraja](https://twitter.com/arfinraja)
