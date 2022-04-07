@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- I work as an **Software Engineer** at **Google**.  -->
-I am a graduate of the class of 2021 in Electrical Engineering from **Indian Institute of Technology (BHU) Varanasi**.
+I am Graduated of the Session of 2025-2019 in Computer Science & Engineering from **Nalanda College of Engineering Chandi (Chandi, Nalanda, Bihar)**.
 
 ![](https://komarev.com/ghpvc/?username=vikas-baghel&color=blue)
 
