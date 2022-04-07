@@ -19,8 +19,8 @@ I am Graduated of the Session of 2015-2019 in Computer Science & Engineering fro
 ![](https://komarev.com/ghpvc/?username=MD-ARFIN&color=blue)
 
 ### 📫 How to reach me
-- 🐦 Twitter: [@arfinraja](https://twitter.com/arfinraja)
 - 👥 LinkedIn [@md-arfin-cse](https://www.linkedin.com/in/md-arfin-cse/)
+- 🐦 Twitter: [@arfinraja](https://twitter.com/arfinraja)
 <!-- - 💻 Website: []() -->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MD-ARFIN&show_icons=true&count_private=true&theme=tokyonight" alt="MD-ARFIN" />
