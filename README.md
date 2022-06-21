@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm MD ARFIN</h1>
 <h3 align="center">•Passionate Geek with love for Computer Science.
-•Strong in design and integration with intuitive problem-solving skills. I am proficient in Java, and Familiar in C++, Python, HTML5, CSS3, JavaScript, and SQL. 
-•Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start a career as an entry-level software engineer with a reputable firm driven by technology.</h3>
+
+  •Strong in design and integration with intuitive problem-solving skills. I am proficient in Java, and Familiar in C++, Python, HTML5, CSS3, JavaScript, and SQL. 
+
+  •Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start a career as an entry-level software engineer with a reputable firm driven by technology.</h3>
 
 
 <p align="left"> <a href="https://twitter.com/@ArfinRaja" target="blank"><img src="https://img.shields.io/twitter/follow/MD ARFIN?logo=twitter&style=for-the-badge" alt="ARFINRAJA" /></a> </p>
