@@ -13,6 +13,9 @@
 ### 📫 How to reach me
 - 👥 LinkedIn [@md-arfin-cse](https://www.linkedin.com/in/md-arfin-cse/)
 - 🐦 Twitter: [@arfinraja](https://twitter.com/arfinraja)
+- 🐦 Github:  [@md-arfin](https://github.com/MD-ARFIN)
+- 🐦 Facebook: [@md.arfin.50](https://facebook.com/MD-ARFIN)
+- 🐦 Instagram: [@md_arfin_cse](https://github.com/MD-ARFIN)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
