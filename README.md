@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/@ArfinRaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ARFINRAJA" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/md-arfin-cse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MD_ARFIN_CSE" height="30" width="40" /></a>
-<a href="https://www.instagram.com/md_arfin_cse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/MD_ARFIN_CSE/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MD_ARFIN_CSE" height="30" width="40" /></a>
+<a href="https://www.instagram.com/md_arfin_cse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MD_ARFIN_CSE" height="30" width="40" /></a>
 
 </p>
 
