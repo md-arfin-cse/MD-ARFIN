@@ -10,13 +10,13 @@
 <p align="left"> <a href="https://twitter.com/@ArfinRaja" target="blank"><img src="https://img.shields.io/twitter/follow/ARFINRAJA?logo=twitter&style=for-the-badge" alt="ARFINRAJA" /></a> </p>
 
 - 📫 Email Id - **arfin.raja@gmail.com**
-### 📫 How to reach me
+<!-- ### 📫 How to reach me
 - 👥 LinkedIn [@md-arfin-cse](https://www.linkedin.com/in/md-arfin-cse/)
 - 🐦 Twitter: [@arfinraja](https://twitter.com/arfinraja)
 - 🐦 Github:  [@md-arfin](https://github.com/MD-ARFIN)
 - 🐦 Facebook: [@md.arfin.50](https://facebook.com/MD-ARFIN)
 - 🐦 Instagram: [@md_arfin_cse](https://github.com/MD-ARFIN)
-
+ -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ArfinRaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ARFINRAJA" height="30" width="40" /></a>
