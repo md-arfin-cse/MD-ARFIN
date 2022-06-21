@@ -4,7 +4,7 @@
 •Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start a career as an entry-level software engineer with a reputable firm driven by technology.</h3>
 
 
-<p align="left"> <a href="https://twitter.com/@ArfinRaja" target="blank"><img src="https://img.shields.io/twitter/follow/rohit_dev7?logo=twitter&style=for-the-badge" alt="rohit_dev7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@ArfinRaja" target="blank"><img src="https://img.shields.io/twitter/follow/MD ARFIN?logo=twitter&style=for-the-badge" alt="rohit_dev7" /></a> </p>
 
 - 📫 How to reach me **arfin.raja@gmail.com**
 ### 📫 How to reach me
