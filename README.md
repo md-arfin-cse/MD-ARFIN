@@ -38,7 +38,7 @@
 <a href="https://developer.android.com/studio" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="55" height="55"/> </a> 
 <a href="https://kotlinlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="55" height="55"/> </a> 
 <a href="https://git-scm.com/"target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="55" height="55"/> </a>
-<a href="https://github.com/"target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="55" height="55"/> </a>
+<a href="https://github.com/"target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="55" height="55"/></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MD-ARFIN&show_icons=true&locale=en&layout=compact" alt="MD-ARFIN" /></p>
