@@ -16,7 +16,7 @@
 - 👥 LinkedIn [@md-arfin-cse](https://www.linkedin.com/in/md-arfin-cse/)
 - 🐦 Twitter: [@arfinraja](https://twitter.com/arfinraja)
 - 🐦 Github:  [@md-arfin](https://github.com/MD-ARFIN)
-- 🐦 Facebook: [@md.arfin.50](https://facebook.com/MD ARFIN)
+- 🐦 Facebook: [@md.arfin.50](https://facebook.com/MD.ARFIN.50)
 - 🐦 Instagram: [@md_arfin_cse](https://instagram.com/MD-ARFIN)
  -->
 <h3 align="left">Connect with me:</h3>
