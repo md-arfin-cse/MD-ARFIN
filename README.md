@@ -12,7 +12,7 @@
   
   - 🔭 I’m currently learning on **FullStack Web Development**
 
-- 🌱 I’m currently learning **Data Structure & Algorithm**
+- 🌱 I’m currently learning on **Data Structure & Algorithm**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MD-ARFIN/MD-ARFIN](https://github.com/MD-ARFIN/MD-ARFIN)
 
