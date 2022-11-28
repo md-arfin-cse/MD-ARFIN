@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-arfin" alt="md-arfin"/></a> </p>
   
  
-  <h4>•Strong in design and integration with intuitive problem-solving skills. I am proficient in Java, and Familiar in C++, Python, HTML5, CSS3, JavaScript, and SQL.</h4> 
+  <h4>•••Strong in design and integration with intuitive problem-solving skills. I am proficient in Java, and Familiar in C++, Python, HTML5, CSS3, JavaScript, and SQL.</h4> 
   
-  <h4>•Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start a career as an          entry-level software engineer with a reputable firm driven by technology.</h4>
+  <h4>•••Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start a career as an          entry-level software engineer with a reputable firm driven by technology.</h4>
   
   - 🔭 I’m currently learning on **FullStack Web Development**
 
