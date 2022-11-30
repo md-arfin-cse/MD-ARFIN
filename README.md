@@ -10,7 +10,7 @@
   
   <h4>•••Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start a career as an          entry-level software engineer with a reputable firm driven by technology.</h4>
   
-  - 🔭 I’m currently learning on **FullStack Web Development**
+- 🔭 I’m currently learning on **FullStack Web Development**
 
 - 🌱 I’m currently learning on **Data Structure & Algorithm**
 
@@ -37,17 +37,16 @@
 <a href="https://twitter.com/@ArfinRaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ARFINRAJA" height="30" width="40" /></a>
 <a href="https://www.github.com/md-arfin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="md-arfin" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/md_arfin_cse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/md_arfin_cse/" height="30" width="40" /></a>
-<!--   <a href="https://www.HackerRank.com/arfin_raja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Hacker-Rank.svg" alt="arfin_raja" height="30" width="40" /></a> -->
+
+  <!--   <a href="https://www.HackerRank.com/arfin_raja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Hacker-Rank.svg" alt="arfin_raja" height="30" width="40" /></a> -->
     <a
     href="https://stackoverflow.com/users/14240698/md-arfin"
-    target="blank"
-    ><img
+    target="blank"><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
       alt="https://stackoverflow.com/users/14240698/md-arfin"
       height="30"
-      width="40"
-  /></a>
+      width="40"/></a>
   <a
     href="https://auth.geeksforgeeks.org/user/arfinraja/https://auth.geeksforgeeks.org/user/arfinraja/profile"
     target="blank"
@@ -81,8 +80,8 @@
 <a href="https://kotlinlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="55" height="55"/> </a> 
 <a href="https://git-scm.com/"target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="55" height="55"/> </a>
 <a href="https://github.com/"target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="55" height="55"/></a>
-<!-- <a href="https://www.ruby-lang.org/en/"target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="55" height="55"/></a> -->
-<!-- <a href="https://rubyonrails.org/"target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="55" height="55"/></a> -->
+<a href="https://www.ruby-lang.org/en/"target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="55" height="55"/></a>
+<a href="https://rubyonrails.org/"target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="55" height="55"/></a>
      <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
