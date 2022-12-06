@@ -33,14 +33,28 @@
  -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/md-arfin-cse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MD_ARFIN_CSE" height="30" width="40" /></a>
+<!-- <a href="https://www.linkedin.com/in/md-arfin-cse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MD_ARFIN_CSE" height="30" width="40" /></a>
 <a href="https://twitter.com/@ArfinRaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ARFINRAJA" height="30" width="40" /></a>
 <a href="https://www.github.com/md-arfin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="md-arfin" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/md_arfin_cse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/md_arfin_cse/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14240698/md-arfin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14240698/md-arfin" height="30" width="40"/></a>
 <a href="https://www.instagram.com/md_arfin_cse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MD_ARFIN_CSE" height="30" width="40" /></a>
-<a href="https://www.facebook.com/md.arfin.50/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.arfin.50" height="30" width="40" /></a>
+<a href="https://www.facebook.com/md.arfin.50/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.arfin.50" height="30" width="40" /></a> -->
+  <a href="https://www.linkedin.com/in/md-arfin-cse/" rel="nofollow">
+    <img width="30px" src="https://camo.githubusercontent.com/e591fde37567a32e51fb1b98924f4df8e45199dca985500749e2a9938fa3e322/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e6b6564696e2f6c696e6b6564696e2d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" style="max-width: 100%;">
+  </a> 
+  <a href="https://twitter.com/ArfinRaja" rel="nofollow">
+    <img width="30px" src="https://camo.githubusercontent.com/c2efd5b7e394dc883a8ce630001d0db974079dca25e9a6dff928de4be726d4f0/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f747769747465722f747769747465722d6f6666696369616c2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" style="max-width: 100%;">
+    <a href="https://www.instagram.com/md_arfin_cse/" rel="nofollow">
+    <img width="30px" src="https://camo.githubusercontent.com/534bd8110d2f16646fcb89c85717c393cf6f3fdc3ae5d09a39152f14779eccce/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f696e7374616772616d2f696e7374616772616d2d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" style="max-width: 100%;">
+  </a> 
+  </a>
+  <a href="https://md-arfin.github.io/md-arfin-geeky/" rel="nofollow">
+  <img width="30px" src="https://camo.githubusercontent.com/1733971dd4cbd0a50afddd9129ff189d9ae79c108eb1c75d31c2e8a10034bac8/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313631313930323437333338332f4344794175547937352e706e673f6175746f3d636f6d7072657373" data-canonical-src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" style="max-width: 100%;">
+  </a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
